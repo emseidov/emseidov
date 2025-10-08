@@ -6,10 +6,10 @@ Outside of work, I love hacking on [(Neo)Vim](https://neovim.io/), and I'm into 
 
 **Me on the web:**
 
-- 💻 [My site & blog](https://emseidov.dev)
+- 💻 [My site & blog](https://emseidov.dev) (coming soon™)
 - 💬 [What do I think? - (**X / Twitter**)](https://x.com/emseidov)
 - 🦋 [What do I also think? (**Bluesky**)](https://bsky.app/profile/emseidov.dev)
-- 💼 [The professional me (**LinkedIn**)](https://linkedin.com/in/emrahseidov)
+- 💼 [The professional me (**LinkedIn**)](https://linkedin.com/in/emseidov)
 
 <details>
   <summary>More...</summary>
