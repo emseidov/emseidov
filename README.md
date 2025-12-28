@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm a senior JS developer turned Clojurist! I came from the JS & React world and moved into [Clojure](https://clojure.org/) and [ClojureScript](https://clojurescript.org/), because I love [functional programming](https://en.wikipedia.org/wiki/Functional_programming) and how elegant Clojure is. Outside of work, I enjoy reading gems like [SICP](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs), tinker with my [(Neo)Vim](https://neovim.io/) config, and contribute to open-source whenever I can.
+I'm a senior JS developer turned Clojurist! I came from the JS & React world and moved into [Clojure](https://clojure.org/) and [ClojureScript](https://clojurescript.org/), because I love [functional programming](https://en.wikipedia.org/wiki/Functional_programming) and how elegant Clojure is. Outside of work, I also like reading gems like [SICP](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs), tinker with my [(Neo)Vim](https://neovim.io/) config, and contribute to open-source whenever I can.
 
 **Me on the web:**
 
